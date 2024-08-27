@@ -1,3 +1,3 @@
-# My Company website template ✌
+# My Company website
 
-In this repo i had made my company website template 
+In this repo i had made my company website
